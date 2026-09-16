@@ -15,17 +15,17 @@ The project walks step-by-step through dataset exploration, summary statistics, 
 
 ##  Key Statistical Topics Covered
 
-1. Data Inspection & Cleaning:** Checking data types, non-null values, and basic structures.
-2. Frequency Analysis:** Value counts for categorical columns (`sex`, `smoker`, `day`, `time`, `size`).
-3. Central Tendency Measures:** Mean, Median, and Mode calculation for `total_bill`, `tip`, and `size`.
-4. Measures of Spread & Variability:** Range, Variance, and Standard Deviation.
-5. Percentiles & Quartiles:** Q1, Q2 (Median), Q3, and Interquartile Range (IQR).
-6. Outlier Detection:** Visualizing distributions using Boxplots.
-7. Distribution & Skewness:** Analyzing shape via Histograms, KDE plots, and Skewness coefficients.
-8. Group Comparisons:** Aggregating metrics across categories (Day, Sex, Time, Smoker).
-9. Bivariate Analysis:** Covariance, Pearson Correlation Coefficient, and Scatter Plots.
-10. Linear Regression:** Polyfit modeling, slope, intercept, $R^2$ determination, and predictive           evaluation for custom bill amounts.
-11. Sampling Distributions:** Simulating 100 random samples ($n=30$) to demonstrate the Central Limit Theorem.
+1. Data Inspection & Cleaning: Checking data types, non-null values, and basic structures.
+2. Frequency Analysis: Value counts for categorical columns (`sex`, `smoker`, `day`, `time`, `size`).
+3. Central Tendency Measures: Mean, Median, and Mode calculation for `total_bill`, `tip`, and `size`.
+4. Measures of Spread & Variability: Range, Variance, and Standard Deviation.
+5. Percentiles & Quartiles: Q1, Q2 (Median), Q3, and Interquartile Range (IQR).
+6. Outlier Detection: Visualizing distributions using Boxplots.
+7. Distribution & Skewness: Analyzing shape via Histograms, KDE plots, and Skewness coefficients.
+8. Group Comparisons: Aggregating metrics across categories (Day, Sex, Time, Smoker).
+9. Bivariate Analysis: Covariance, Pearson Correlation Coefficient, and Scatter Plots.
+10. Linear Regression: Polyfit modeling, slope, intercept, $R^2$ determination, and predictive           evaluation for custom bill amounts.
+11. Sampling Distributions: Simulating 100 random samples ($n=30$) to demonstrate the Central Limit Theorem.
 
 ---
 
