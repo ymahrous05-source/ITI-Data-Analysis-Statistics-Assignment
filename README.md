@@ -41,7 +41,7 @@ The project walks step-by-step through dataset exploration, summary statistics, 
 ---
 
 ##  Repository Structure
-├── Statistics_and_Data_Analysis_Tips_Dataset.ipynb   # Main Jupyter Notebook with code & outputs
+├── Statistics_and_Data_Analysis_Tips_Dataset.ipynb    # Main Jupyter Notebook with code & outputs
 ├── tips.xlsx                                          # Dataset file
 └── README.md                                          # Project documentation
 
